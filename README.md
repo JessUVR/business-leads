@@ -2,6 +2,18 @@
 
 A Python application that searches local businesses using the Google Places API and exports the results to Excel.
 
+## Demo
+
+### Search Process
+
+<img width="480" height="270" alt="business-leads-demo-1" src="https://github.com/user-attachments/assets/9f37e36b-f6fe-432f-9eeb-e756500eebca" />
+
+
+### Excel Export
+
+<img width="480" height="270" alt="business-leads-demo-2" src="https://github.com/user-attachments/assets/9fe2b48c-cdef-4c76-b0c0-ddbb6b48d846" />
+
+
 ## Features
 
 - Search businesses by category.
