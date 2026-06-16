@@ -27,8 +27,6 @@ Create a `config.py` file in the project root:
 GOOGLE_API_KEY = "YOUR_API_KEY"
 ```
 
-> **Note:** Never commit your API key to GitHub.
-
 ---
 
 ## Usage
