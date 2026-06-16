@@ -1,9 +1,9 @@
 """Command-line entry point for generating business leads."""
 
-from config import GOOGLE_PLACES_API_KEY
-from api.google_places_client import GooglePlacesClient
-from services.business_search_service import BusinessSearchService
-from exporters.excel_exporter import ExcelExporter
+from src.config import GOOGLE_PLACES_API_KEY
+from src.api.google_places_client import GooglePlacesClient
+from src.services.business_search_service import BusinessSearchService
+from src.exporters.excel_exporter import ExcelExporter
 
 
 def main() -> None:

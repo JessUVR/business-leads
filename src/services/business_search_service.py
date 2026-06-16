@@ -1,7 +1,7 @@
 """Search businesses with Google Places."""
 
-from api.google_places_client import GooglePlacesClient
-from models.business import Business
+from src.api.google_places_client import GooglePlacesClient
+from src.models.business import Business
 
 
 class BusinessSearchService:
